@@ -1,1 +1,1 @@
-from src.api.nsmodels.seismic_events import events_ns, events_model
+from src.api.nsmodels.seismic_event import events_ns, events_model
